@@ -5,6 +5,27 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "mydxproject_2b56473"
+    },
+    {
+      "type": "java",
+      "name": "practice",
+      "request": "launch",
+      "mainClass": "practice",
+      "projectName": "mydxproject_2b56473"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "mydxproject_2b56473"
+    },
+    {
       "name": "Launch Apex Replay Debugger",
       "type": "apex-replay",
       "request": "launch",
